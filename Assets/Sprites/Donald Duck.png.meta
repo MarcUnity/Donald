@@ -1,0 +1,1468 @@
+fileFormatVersion: 2
+guid: 371da384e1e953e4898dfdea3a2ee1a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6795147028397274330
+    second: Donald Duck_0
+  - first:
+      213: -1228173824796466833
+    second: Donald Duck_1
+  - first:
+      213: -6720097658540762962
+    second: Donald Duck_2
+  - first:
+      213: 467999378599945776
+    second: Donald Duck_3
+  - first:
+      213: -2230761986506565424
+    second: Donald Duck_4
+  - first:
+      213: -8700478932778539805
+    second: Donald Duck_5
+  - first:
+      213: -3180430459683732913
+    second: Donald Duck_6
+  - first:
+      213: -2719294703398307856
+    second: Donald Duck_7
+  - first:
+      213: -2512403418486033057
+    second: Donald Duck_8
+  - first:
+      213: -3440123458836511019
+    second: Donald Duck_9
+  - first:
+      213: 227914064519086775
+    second: Donald Duck_10
+  - first:
+      213: 7785901415196698452
+    second: Donald Duck_11
+  - first:
+      213: -8968376162746752320
+    second: Donald Duck_12
+  - first:
+      213: 6044674705826446405
+    second: Donald Duck_13
+  - first:
+      213: -3097152581540389184
+    second: Donald Duck_14
+  - first:
+      213: -4883856191093384848
+    second: Donald Duck_15
+  - first:
+      213: 6000788711751233594
+    second: Donald Duck_16
+  - first:
+      213: 8207325336225131321
+    second: Donald Duck_17
+  - first:
+      213: 7876862727134441849
+    second: Donald Duck_18
+  - first:
+      213: -8512177924192463242
+    second: Donald Duck_19
+  - first:
+      213: -2840554875232400653
+    second: Donald Duck_20
+  - first:
+      213: 4396200325295463183
+    second: Donald Duck_21
+  - first:
+      213: 7498078631019014418
+    second: Donald Duck_22
+  - first:
+      213: 1655041127253727302
+    second: Donald Duck_23
+  - first:
+      213: -4106681454062790159
+    second: Donald Duck_24
+  - first:
+      213: 3687705229736821053
+    second: Donald Duck_25
+  - first:
+      213: 4195941374705089579
+    second: Donald Duck_26
+  - first:
+      213: -1776843604825833538
+    second: Donald Duck_27
+  - first:
+      213: -2684643653480807288
+    second: Donald Duck_28
+  - first:
+      213: -8225966683473697035
+    second: Donald Duck_29
+  - first:
+      213: -5173678362400485441
+    second: Donald Duck_30
+  - first:
+      213: 4141205940150748827
+    second: Donald Duck_31
+  - first:
+      213: -7273030357408591810
+    second: Donald Duck_32
+  - first:
+      213: -7623530344727103882
+    second: Donald Duck_33
+  - first:
+      213: -3579854885610249356
+    second: Donald Duck_34
+  - first:
+      213: -9144757093949605551
+    second: Donald Duck_35
+  - first:
+      213: -8267448355193464107
+    second: Donald Duck_36
+  - first:
+      213: 6749572288329843410
+    second: Donald Duck_37
+  - first:
+      213: 3212221128949246671
+    second: Donald Duck_38
+  - first:
+      213: -1329557095139146827
+    second: Donald Duck_39
+  - first:
+      213: -2470840454188489771
+    second: Donald Duck_40
+  - first:
+      213: 6196986053096811656
+    second: Donald Duck_41
+  - first:
+      213: -9078703471158416952
+    second: Donald Duck_42
+  - first:
+      213: 1930743930369864099
+    second: Donald Duck_43
+  - first:
+      213: 7340588066509971573
+    second: Donald Duck_44
+  - first:
+      213: 6955360051610229399
+    second: Donald Duck_45
+  - first:
+      213: 7393760091227710971
+    second: Donald Duck_46
+  - first:
+      213: -1783101926236876869
+    second: Donald Duck_47
+  - first:
+      213: -3562477548987082059
+    second: Donald Duck_48
+  - first:
+      213: -1506371388102921184
+    second: Donald Duck_49
+  - first:
+      213: -8633959531584566672
+    second: Donald Duck_50
+  - first:
+      213: 8983724461075066071
+    second: Donald Duck_51
+  - first:
+      213: -3359818387541123938
+    second: Donald Duck_36
+  - first:
+      213: 3421186952488914072
+    second: Donald Duck_43
+  - first:
+      213: 7745543488052979882
+    second: Donald Duck_39
+  - first:
+      213: 6629016935417914552
+    second: Donald Duck_40
+  - first:
+      213: -295855417011260245
+    second: Donald Duck_41
+  - first:
+      213: 721284421215937584
+    second: Donald Duck_42
+  - first:
+      213: -5338935592117055193
+    second: Donald Duck_44
+  - first:
+      213: 6644209504942885480
+    second: Donald Duck_45
+  - first:
+      213: 4467208610326420699
+    second: Donald Duck_46
+  - first:
+      213: -4496478283726148225
+    second: Donald Duck_47
+  - first:
+      213: -298463052155134957
+    second: Donald Duck_48
+  - first:
+      213: 1995970938867092921
+    second: Donald Duck_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Donald Duck_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf05faf3598a8fe4c853dbeca53a7479
+      internalID: 6795147028397274330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 220
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7ba98b103dd134eabe3a780ae12ca4
+      internalID: -1228173824796466833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 220
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4a242bdc3796948bc5270eaa79ceaa
+      internalID: -6720097658540762962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d7a5054ce7ad94fb7a343133068abe
+      internalID: 467999378599945776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 220
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a54c3a5a160db40a5ea782c64b1b44
+      internalID: -2230761986506565424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 220
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df72908b8e4d13247b485c6fc0232065
+      internalID: -8700478932778539805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196209431390bfd4cab4991bad47b1c6
+      internalID: -3180430459683732913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 220
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ad5bcb661935408dbc714bcb3acaa
+      internalID: -2719294703398307856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 220
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9575879f52081d48a10cc24a016c5ac
+      internalID: -2512403418486033057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 220
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4b6cbf5838c184c9cd1a2755d3ecb1
+      internalID: -3440123458836511019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 220
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e949778e2dcc9de439ccfda13444dd78
+      internalID: 227914064519086775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 220
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7febcefe981dc7e4b852a73a713e0778
+      internalID: 7785901415196698452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 220
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899399cd49b1d0e459c522e4dba4a180
+      internalID: -8968376162746752320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 220
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2424e840723a9b4db7559a6e4e2fa23
+      internalID: 6044674705826446405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 165
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b7a04f653e3e042b4a2e7fa9b0b96f
+      internalID: -3097152581540389184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 165
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.667, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007ea089bf590b446ab43272e696acb2
+      internalID: -4883856191093384848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 165
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.667, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c80cea1ef8c0bb41a61b3feac575f19
+      internalID: 6000788711751233594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 165
+        width: 28
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ff076d4049df64f8beed225c23c012
+      internalID: 8207325336225131321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 165
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f053487fe3046db4bb0ae50026554858
+      internalID: 7876862727134441849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 165
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19053dadaf02e6f479939179a88862a0
+      internalID: -8512177924192463242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 170
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b65b6f649641b489f51d59461ccf03
+      internalID: -2840554875232400653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_21
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 165
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98204cfdd7bb8044a631cf6a28c18d0
+      internalID: 4396200325295463183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 172
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bd6f7b640badc4796680f0749f5fda
+      internalID: 7498078631019014418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 172
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1afd3b6fda3c848a2756062d4ffe56
+      internalID: 1655041127253727302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 167
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e559277996a1ce49bf6e20841dcf3f5
+      internalID: -4106681454062790159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 94
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aafd29426d9d143a7bf664a0abbef9
+      internalID: 3687705229736821053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 112
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44122a455e14ff4882254f79cfef4be
+      internalID: 4195941374705089579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df603ca742ae4748b73069005e5b4ea
+      internalID: -1776843604825833538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 112
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2ca5727e5013d4eb980ff3da85da77
+      internalID: -2684643653480807288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 94
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d49797642166ab4ab93e2f0cbb592b0
+      internalID: -8225966683473697035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 105
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da9837980be2de4e83c7e25f2ff2dd9
+      internalID: 4141205940150748827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 113
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb92434106fb248b8b4a775fdba875
+      internalID: -7273030357408591810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 105
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af762b1e3a8c17d4a858ec67da8bf239
+      internalID: -7623530344727103882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 107
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6476d73c55ed4cf428d364e912ca62ba
+      internalID: -3579854885610249356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 106
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c4b6fe316aed342afdf59f4a6a3b44
+      internalID: -9144757093949605551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee8b7bc3b7d9c7409df947196ab5b2d
+      internalID: 6749572288329843410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 44
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73945c2326990ef40bf84f25bbb56378
+      internalID: 3212221128949246671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c19c44af68f51d0800000000000000
+      internalID: -8267448355193464107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8ecb5c3c2bd7b60800000000000000
+      internalID: -1329557095139146827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_40
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 44
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b422add7cffefb50800000000000000
+      internalID: -2470840454188489771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 44
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba43b24d019e4ebf0800000000000000
+      internalID: 6196986053096811656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 44
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034699c0c54820a00800000000000000
+      internalID: -9078703471158416952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c8d45386f7a7f20800000000000000
+      internalID: 1930743930369864099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc92141096befd30800000000000000
+      internalID: 7393760091227710971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6
+        width: 51
+        height: 28
+      alignment: 9
+      pivot: {x: 0.38235, y: 0.838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dae3603dc4991c0800000000000000
+      internalID: -1783101926236876869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.7573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd6b57f65abdbf0800000000000000
+      internalID: -3562477548987082059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 94
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3871, y: 0.55951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd0d296efc13bb10800000000000000
+      internalID: -5173678362400485441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 6
+        width: 56
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc99d96e987ba644a9fe16d3b880b9fa
+      internalID: 872994745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donald Duck_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 56
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 1.067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6fbcf12aeac814085bff97fe96d6d7
+      internalID: 2070846614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Donald Duck_24: -4106681454062790159
+      Donald Duck_42: -9078703471158416952
+      Donald Duck_49: 872994745
+      Donald Duck_34: -3579854885610249356
+      Donald Duck_29: -8225966683473697035
+      Donald Duck_12: -8968376162746752320
+      Donald Duck_18: 7876862727134441849
+      Donald Duck_9: -3440123458836511019
+      Donald Duck_47: -1783101926236876869
+      Donald Duck_38: 3212221128949246671
+      Donald Duck_21: 4396200325295463183
+      Donald Duck_6: -3180430459683732913
+      Donald Duck_37: 6749572288329843410
+      Donald Duck_16: 6000788711751233594
+      Donald Duck_5: -8700478932778539805
+      Donald Duck_32: -7273030357408591810
+      Donald Duck_30: -5173678362400485441
+      Donald Duck_33: -7623530344727103882
+      Donald Duck_27: -1776843604825833538
+      Donald Duck_25: 3687705229736821053
+      Donald Duck_40: -2470840454188489771
+      Donald Duck_4: -2230761986506565424
+      Donald Duck_35: -9144757093949605551
+      Donald Duck_7: -2719294703398307856
+      Donald Duck_13: 6044674705826446405
+      Donald Duck_19: -8512177924192463242
+      Donald Duck_26: 4195941374705089579
+      Donald Duck_11: 7785901415196698452
+      Donald Duck_23: 1655041127253727302
+      Donald Duck_31: 4141205940150748827
+      Donald Duck_44: 7340588066509971573
+      Donald Duck_0: 6795147028397274330
+      Donald Duck_20: -2840554875232400653
+      Donald Duck_2: -6720097658540762962
+      Donald Duck_8: -2512403418486033057
+      Donald Duck_22: 7498078631019014418
+      Donald Duck_43: 1930743930369864099
+      Donald Duck_3: 467999378599945776
+      Donald Duck_28: -2684643653480807288
+      Donald Duck_17: 8207325336225131321
+      Donald Duck_45: 6955360051610229399
+      Donald Duck_41: 6196986053096811656
+      Donald Duck_50: 2070846614
+      Donald Duck_10: 227914064519086775
+      Donald Duck_15: -4883856191093384848
+      Donald Duck_46: 7393760091227710971
+      Donald Duck_14: -3097152581540389184
+      Donald Duck_48: -3562477548987082059
+      Donald Duck_1: -1228173824796466833
+      Donald Duck_36: -8267448355193464107
+      Donald Duck_39: -1329557095139146827
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
